@@ -1,0 +1,1 @@
+"""Frisquet Api."""

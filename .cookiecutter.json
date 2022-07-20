@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/rivoala/perso",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "anto35",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 3 - Alpha",
+  "email": "antoine.rivoal@gmail.com",
+  "friendly_name": "Frisquet Api",
+  "github_user": "anto35",
+  "license": "MIT",
+  "package_name": "frisquet_api",
+  "project_name": "frisquet-api",
+  "version": "0.1.0"
+}
